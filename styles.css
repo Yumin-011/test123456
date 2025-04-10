@@ -1,0 +1,14 @@
+h1{
+    color: lightgreen;
+    font-size: 4rem;
+}
+h1:hover{
+    color: lightcoral;
+}
+h2{
+    color: lightblue;
+    font-size: 2rem;
+}
+h2:hover{
+    color: lightpink;
+}
