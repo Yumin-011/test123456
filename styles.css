@@ -12,3 +12,10 @@ h2{
 h2:hover{
     color: lightpink;
 }
+
+img{
+    border: 1px solid pink;
+    border-radius: 50%;
+}
+p{color: lightgreen;
+font-size: 2rem;}
